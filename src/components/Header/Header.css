@@ -1,0 +1,18 @@
+.header-container ul{
+    list-style: none;
+   display: flex;
+   background-color: #1C2B35;
+   color: white;
+   padding: 0 100px 0 112px;
+   margin: 0;
+   height: 80px;
+   align-items: center;
+   justify-content: end;
+}
+.header-container ul>li{
+    margin-left: 20px;
+    cursor: pointer;;
+}
+.header-container ul>li:hover{
+    color: orange;
+}
